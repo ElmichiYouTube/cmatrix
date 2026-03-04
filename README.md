@@ -1,5 +1,6 @@
 # CMatrix
 Un matrix para Windows escrito en C#
+<img width="802" height="512" alt="image" src="https://github.com/user-attachments/assets/b19d0d5e-e4c0-47bd-83bd-0464101730cd" />
 
 CMatrix es un **programa para Windows** de **Matrix** creado en **C#**. Si quieres compilarlo tú mismo, tienes que tener Windows 7 con la actualización más reciente hasta el Windows 11. O verificar si tienes el Framework de .NET 4.0.30319 en tu PC. Aunque el script ya verifica eso.
 ## Descarga
